@@ -1,0 +1,11 @@
+{
+  "version": "1.0.12",
+  "notes": "Première mise à jour via GitHub",
+  "pub_date": "2025-05-14T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/black-pos-guinee/blackpos-releases/releases/latest/download/blackpos.msi.zip"
+    }
+  }
+}
