@@ -1,11 +1,11 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "notes": "Première mise à jour via GitHub",
   "pub_date": "2025-05-14T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/black-pos-guinee/blackpos-releases/releases/latest/download/blackpos.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0NuVHRnNlR2am9uWlgzT0FsS21TTHIvZ2UydDdrSXZzSzRyQ2FXRHFyaVVGb2VOSSswTW91QzBUT05BYUx6SFYyVEFEaGVMODhrcjgrYkF1VkIvUDVrdXRhaTZXVWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4Nzg4NjE3CWZpbGU6QkxBQ0sgUE9TIEdVSU5FRV8xLjAuMTNfeDY0X2VuLVVTLm1zaQo1V2ZwTkhYZW1pMDhzNGljSUh2RUJUVkQzS0drTFZEYmFJQ0xYVDJGb3J3M2dNZ2UySXlNaFk3NmVNZGY3VEo0RjJlSENyelhzdThOSlBqUDE2TnBDdz09Cg==",
+      "url": "https://github.com/black-pos-guinee/blackpos-releases/releases/download/v1.0.13/BLACK.POS.GUINEE_1.0.13_x64_en-US.msi.zip"
     }
   }
 }
