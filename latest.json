@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
-  "notes": "Nous améliorons les mises a jours pour vous facilité le téléchargement et linstallation des nouvelles mises ajours du systeme black pos ",
-  "released_at": "2025-05-15",
-  "download_url": "https://github.com/black-pos-guinee/blackpos-releases/releases/download/v1.0.13/BLACK.POS.GUINEE_1.0.13_x64_en-US.msi",
+  "version": "1.0.14",
+  "notes": "BLACK POS v1.0.14\n• Nouveau système de connexion intelligent : la caisse s'ouvre automatiquement après saisie correcte du mot de passe sans avoir besoin de cliquer sur le bouton connexion.\n• Optimisation complète de l'écran de verrouillage avec ouverture automatique après saisie correcte du mot de passe.\n• Amélioration de l'interface utilisateur avec remplacement des textes des boutons par des emojis pour une interface plus moderne et plus rapide à utiliser : 🔒 pour verrouiller ⛔ pour minimiser\n• Agrandissement des boutons horizontaux pour améliorer l'utilisation sur écran tactile et faciliter les manipulations rapides.\n• Agrandissement et amélioration du sélecteur de serveur pour une meilleure visibilité et une navigation plus fluide.\n• Nouveau système automatique de calcul des intérêts et bénéfices chicha.\n• Ajout du calcul automatique des bénéfices des arômes et du charbon lors des ventes chicha.\n• Ajout de nouvelles colonnes dans le stock arômes et charbon afin de faciliter les calculs automatiques et améliorer la gestion du stock.\n• Optimisation et amélioration générale du dashboard avec plusieurs ajustements visuels et fonctionnels.\n• Amélioration globale de la fluidité, de la rapidité et de l'expérience utilisateur dans toute l'application.",
+  "released_at": "2025-05-17",
+  "download_url": "https://github.com/black-pos-guinee/blackpos-releases/releases/download/v1.0.14/BLACK.POS.GUINEE_1.0.14_x64_en-US.msi",
   "mandatory": false
 }
